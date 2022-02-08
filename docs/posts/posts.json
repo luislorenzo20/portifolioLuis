@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-02-08T11:41:13-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-02-08-anlise-da-base-rais/",
+    "title": "Análise da Base RAIS",
+    "description": "Essa Análise tem como Objetivo analisar salários na base da RAIS. Esse Projeto foi feito para testes DATASCIENS",
+    "author": [
+      {
+        "name": "Luis Carlos Lorenzo",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-08",
+    "categories": [],
+    "contents": "\r\nProjeto de Post utilizando R\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-08T13:29:37-03:00",
+    "input_file": "anlise-da-base-rais.knit.md"
   }
 ]
